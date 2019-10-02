@@ -1,0 +1,19 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.gallery {
+    width:90%;
+    height: 100vh;
+    margin: 0 auto;
+    border:2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-around;
+}
+
+img {
+
+}
